@@ -1,2 +1,3 @@
 ls
-add
+ls -l
+find .
